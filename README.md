@@ -142,7 +142,7 @@ Centralized platform for:
 
 🔗 LinkedIn: Add Your LinkedIn URL
 
-📧 Email: Add Your Email Address
+📧 Email: bphanikumar.it@gmail.com
 
 ---
 
