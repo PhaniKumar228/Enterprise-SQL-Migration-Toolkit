@@ -120,7 +120,7 @@ Centralized platform for:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PhaniKumar228s=true&theme=tokyonight
+<img src="https://github-readme-stats.vercel.app/api?username=PhaniKumar228s=true&theme=tokyonight">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhaniKumar228&layout=compact&theme=tokyonight-
 
