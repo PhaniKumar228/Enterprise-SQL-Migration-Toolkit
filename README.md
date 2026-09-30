@@ -49,6 +49,9 @@ Passionate about SQL Server, Azure SQL Managed Instance, Automation, Cloud Techn
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powers=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoe)
 
+### SQL AI Agent
+
+![SQL AI Agent](https://img.shields.io/badge/SQL_AI_Agent-FF6F00?style=for-the-badge&logo=microsoftcopilot&logoColor=white
 
 ### Monitoring & Operations
 
