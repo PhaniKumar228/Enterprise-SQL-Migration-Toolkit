@@ -1,15 +1,149 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Phanikumar Bellamkonda</h1>
 
-### 👋 Hi, I'm Phanikumar Bellamkonda<br>🔭 I'm currently working on **SQL Server Automation, Azure SQL Managed Instance Operations, and AI-powered DBA Solutions**<br>👯 I'm looking to collaborate on **Database Automation, Cloud Migration, DBA Tools, and Open Source Data Platform Projects**<br>🤝 I'm looking for help with **Advanced AI Integration for Database Operations and Cloud-Native Architecture**<br>🌱 I'm currently learning **Azure OpenAI, DevOps for Databases, Cloud Architecture, and AI-Augmented Database Engineering**<br>💬 Ask me about **SQL Server, Azure SQL MI, Performance Tuning, HA/DR, PowerShell, dbatools, Database Migrations, and Production Support**<br>⚡ Fun fact: **I enjoy automating repetitive DBA tasks and turning hours of manual work into a few minutes of automation.**<br>📫 Reach me at: **your-email@example.com**<br>🚀 Goal: **Building the next generation AI DBA Copilot for enterprise database operations**
+<h3 align="center">
+Expert Database Administrator | SQL Server DBA | Azure DBA | Automation Engineer
+</h3>
 
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PhaniKumar228&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PhaniKumar228&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PhaniKumar228&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Passionate about SQL Server, Azure SQL Managed Instance, Automation, Cloud Technologies, and AI-powered DBA Solutions.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=PhaniKumar228&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🔹 Expert Database Administrator
+
+🔹 Based in Hyderabad, Telangana, India 🇮🇳
+
+🔹 Specialized in SQL Server & Azure SQL Managed Instance
+
+🔹 Experienced in Database Migrations, HA/DR, Performance Tuning, and Automation
+
+🔹 Building AI-Powered DBA Copilot Solutions
+
+🔹 Interested in Cloud Architecture, DevOps & Generative AI
+
+🔹 Goal: Enterprise Data & Cloud Architect
+
+---
+
+## 🛠️ Technical Skills
+
+### Database Technologies
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColorgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&l&logoColor=white
+
+### Cloud Technologies
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=fore&logo=microsoftazure&logoColor=white
+
+### Automation
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powers=white
+
+![GitHub](https://img.shields.io/badge/717?style=for-the-badge&logo=github
+
+### Monitoring & Operations
+
+- SQL Monitoring
+- Database Health Checks
+- Performance Tuning
+- Backup & Recovery
+- DR Planning
+- Security & Compliance
+
+---
+
+## 🏆 Core Expertise
+
+✅ SQL Server Administration
+
+✅ Azure SQL Managed Instance
+
+✅ Performance Tuning
+
+✅ Backup & Recovery
+
+✅ Always On Availability Groups
+
+✅ Database Migration Projects
+
+✅ Disaster Recovery
+
+✅ PowerShell Automation
+
+✅ dbatools
+
+✅ AI Powered DBA Solutions
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 AI DBA Copilot
+AI-driven assistant to automate:
+
+- SQL Health Checks
+- Backup Validation
+- Compliance Reports
+- Migration Assessments
+- Database Inventory Collection
+
+### ☁️ Azure MI Migration Framework
+
+Automation toolkit for:
+
+- Pre-Migration Assessment
+- Validation
+- Login Synchronization
+- Post-Migration Checks
+
+### 📊 Enterprise SQL Inventory Platform
+
+Centralized platform for:
+
+- SQL Server Discovery
+- Vulnerability Tracking
+- Health Monitoring
+- Compliance Reporting
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PhaniKumar228s=true&theme=tokyonight
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhaniKumar228&layout=compact&theme=tokyonight-
+
+## 📜 Certifications
+
+🎯 Microsoft Azure
+
+🎯 DP-300 (Azure Database Administrator)
+
+🎯 SQL Server Administration
+
+(Add completed certifications here)
+
+---
+
+## 📫 Connect With Me
+
+🔗 GitHub: https://github.com/PhaniKumar228
+
+🔗 LinkedIn: Add Your LinkedIn URL
+
+📧 Email: Add Your Email Address
+
+---
+
+## 💡 Favorite Quote
+
+"Automate everything that is repetitive, monitor everything that is critical, and document everything that is important."
+
+---
+
+⭐ Thank you for visiting my profile!
