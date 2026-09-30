@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Expert+Database+Administrator;SQL+Server+DBA;Azure+DBA;Automation+Engineer;AI+Driven+DBA&center=true&width=700&height=50">
+
+
 <h1 align="center">Hi 👋, I'm Phanikumar Bellamkonda</h1>
 
 <h3 align="center">
