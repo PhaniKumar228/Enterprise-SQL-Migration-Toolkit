@@ -116,12 +116,6 @@ Centralized platform for:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phanions=true&theme=tokyonight
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaniKumar228&eme=tokyonight
-
 ## 📜 Certifications
 
 🎯 Microsoft Azure
