@@ -35,18 +35,19 @@ Passionate about SQL Server, Azure SQL Managed Instance, Automation, Cloud Techn
 ## 🛠️ Technical Skills
 
 ### Database Technologies
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColorgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&l&logoColor=white
-
+ 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftColor=white
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazureite
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresqlte
+ 
 ### Cloud Technologies
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=fore&logo=microsoftazure&logoColor=white
-
+ 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftte
+ 
 ### Automation
-
+ 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powers=white
-
-![GitHub](https://img.shields.io/badge/717?style=for-the-badge&logo=github
+![GitHub](https://img.shields.io/badge/717?style=for-the-badge&logo=github&logoColor=white
 
 ### Monitoring & Operations
 
