@@ -49,6 +49,17 @@ Passionate about SQL Server, Azure SQL Managed Instance, Automation, Cloud Techn
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powers=white
 ![GitHub](https://img.shields.io/badge/717?style=for-the-badge&logo=github&logoColor=white
 
+
+## 💻 Technologies & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure,powershell,github,git,v
+
+<p align="left">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftlogoColor=white
+<img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure=white
+<img src="https://img.shields.io/badge/dbatools-0078D4?style=for-the-badge"
+
 ### Monitoring & Operations
 
 - SQL Monitoring
