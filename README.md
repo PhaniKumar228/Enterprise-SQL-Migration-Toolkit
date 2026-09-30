@@ -18,7 +18,7 @@ Passionate about SQL Server, Azure SQL Managed Instance, Automation, Cloud Techn
 
 🔹 Expert Database Administrator
 
-🔹 Based in Hyderabad, Telangana, India 🇮🇳
+🔹 Based in Pune , Maharashtra , India 🇮🇳
 
 🔹 Specialized in SQL Server & Azure SQL Managed Instance
 
