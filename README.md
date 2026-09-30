@@ -118,13 +118,9 @@ Centralized platform for:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhaniKumar228&=true&theme=tokyonight
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phanions=true&theme=tokyonight
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=228&layout=compact&theme=tokyonight
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaniKumar228&eme=tokyonight
 
 ## 📜 Certifications
 
