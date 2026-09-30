@@ -51,7 +51,7 @@ Passionate about SQL Server, Azure SQL Managed Instance, Automation, Cloud Techn
 
 ### SQL AI Agent
 
-![SQL AI Agent](https://img.shields.io/badge/SQL_AI_Agent-FF6F00?style=for-the-badge&logo=microsoftcopilot&logoColor=white
+![SQL AI Agent](https://img.shields.io/badge/SQL_AI_Agent-FF6F00?style=for-the-badge&logo=microsoftcopilot&logoColor=white)
 
 ### Monitoring & Operations
 
